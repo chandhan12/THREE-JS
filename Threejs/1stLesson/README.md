@@ -1,3 +1,3 @@
 hi\
 
-<video src='" alt="hi" ></video>
+<img src='" alt="hi" ></img>
